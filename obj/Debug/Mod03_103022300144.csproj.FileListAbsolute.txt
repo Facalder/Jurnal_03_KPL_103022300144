@@ -1,0 +1,10 @@
+D:\Mod03_103022300144\bin\Debug\Mod03_103022300144.exe.config
+D:\Mod03_103022300144\bin\Debug\Mod03_103022300144.exe
+D:\Mod03_103022300144\bin\Debug\Mod03_103022300144.pdb
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.csproj.AssemblyReference.cache
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.Form1.resources
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.Properties.Resources.resources
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.csproj.GenerateResource.cache
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.csproj.CoreCompileInputs.cache
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.exe
+D:\Mod03_103022300144\obj\Debug\Mod03_103022300144.pdb
